@@ -1,0 +1,6 @@
+{
+    "buildName":  "fultz",
+    "title":  "Jellyfin installer for fultz",
+    "assetName":  "Jellyfin-GrayFix.wgt",
+    "jellyfinServerUrl":  "https://jellyfin.pcmunro.synology.me"
+}
